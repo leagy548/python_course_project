@@ -11,5 +11,8 @@ Goals:
 - plot the resampled data
 
 If sufficient time:
+- extract 25s of the data to correlate with vibroseis sweep, which is also 25s-long.
 - cross-correlation with theoretical vibroseis sweep.
-- extract the data for the shot time + 5s
+- extract the data from the shot timestamp + 5s
+
+IMPORTANT UPDATE (2023-03-17): I didn't manage to get as far as I wanted since I had to spend some time on the theory of what I want to do and how to do it properly.
